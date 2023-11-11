@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **jeevaniitp/jeevaniitp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on projects that I find cool.
+- 🌱 I’m currently learning Computer Vision and simulations.
+- 💬 Ask me about robotics and related fields.
