@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on projects that I find cool.
-- 🌱 I’m currently learning Computer Vision and simulations.
-- 💬 Ask me about robotics and related fields.
+- 🔭 I’m currently working on projects Computer Vision and AI.
+- 🌱 I'm also a robotics enthusiast.
